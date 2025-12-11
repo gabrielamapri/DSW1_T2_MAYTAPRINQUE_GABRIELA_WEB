@@ -37,11 +37,10 @@ Si la API no está en `http://localhost:5185`, crea un archivo `frontend/.env` c
 
 ```text
 VITE_API_URL=http://localhost:5185
-```
 
 # 4) Arrancar el dev server (Vite)
 npm run dev
-```
+
 
 # 5) Abrir la aplicación en el navegador
 Abre `http://localhost:5173` en tu navegador y utiliza la interfaz (Libros + Préstamos). 
